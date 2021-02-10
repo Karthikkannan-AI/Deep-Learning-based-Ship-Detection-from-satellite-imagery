@@ -9,7 +9,7 @@
   * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/Deep-Learning-based-Ship-Detection-from-satellite-imagery/blob/main/README.md#evaluation-of-the-proposed-solution)
 * [Conclusion](https://github.com/Karthikkannan-AI/Deep-Learning-based-Ship-Detection-from-satellite-imagery/blob/main/README.md#conclusion)
 * [Contact Us](https://github.com/Karthikkannan-AI/Deep-Learning-based-Ship-Detection-from-satellite-imagery/blob/main/README.md#contact-us)
-
+* [Rebounding from COVID-19]()
 - - - -
 
 ## Introduction  ##
@@ -19,7 +19,7 @@ Artificial Intelligence (AI) is ushering a new age of information and applicatio
 As Earth Observation (EO) satellites continue to capture higher levels of resolution, AI can transform how data is processed both in space, and on Earth, increasing the speed at which insights can be delivered to customers. 
 Here we showcase one such example of Geospatial intelligence powered by AI to identify Ships and classify the type of Ships from the Satellite Imagery. 
 
-Geospatial Intelligence in Maritime Industry 
+### Geospatial Intelligence in Maritime Industry ###
 
 With the greater part of the World’s trade in goods, oil and gas travelling by sea, the use of maritime tracking applications to monitor the movement of ships and activity at associated ports, and infrastructure, is critical for a wide range of organisations and businesses
 Satellites provides insights about onshore and offshore environments which are critical for any organisation involved in port management and planning.
@@ -79,6 +79,10 @@ __Email : karthik@etopdigital.com / sales@etopdigital.com__
 __Phone : 9944865029__
 
 <img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Ship-Detection-from-satellite-imagery/blob/main/resources/About%20ETOP%20Technologies_Github.png?raw=true">
+
+
+##  Rebounding from COVID-19 ##
+
 
 The COVID-19 pandemic has profoundly influenced the lives of most people on the planet.
 

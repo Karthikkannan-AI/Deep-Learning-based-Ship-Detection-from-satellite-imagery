@@ -9,7 +9,7 @@
   * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/Deep-Learning-based-Ship-Detection-from-satellite-imagery/blob/main/README.md#evaluation-of-the-proposed-solution)
 * [Conclusion](https://github.com/Karthikkannan-AI/Deep-Learning-based-Ship-Detection-from-satellite-imagery/blob/main/README.md#conclusion)
 * [Contact Us](https://github.com/Karthikkannan-AI/Deep-Learning-based-Ship-Detection-from-satellite-imagery/blob/main/README.md#contact-us)
-* [Rebounding from COVID-19]()
+* [Rebounding from COVID-19](https://github.com/Karthikkannan-AI/Deep-Learning-based-Ship-Detection-from-satellite-imagery#rebounding-from-covid-19)
 - - - -
 
 ## Introduction  ##
@@ -50,7 +50,8 @@ Goal of the Project – To create a Deep Learning Pipeline to Identify the Ships
 
 ### Evaluation of the Proposed Solution ###
 
-
+<a href="https://youtu.be/tkrjz34lNPg" target="_blank"><img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Ship-Detection-from-satellite-imagery/blob/main/resources/Ship%20Detector%20and%20Classifier%20Video.png?raw=true" 
+alt="Package AI - Test 1" width="75%"  /></a> 
 
 - - - -
 

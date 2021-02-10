@@ -1,4 +1,4 @@
-# Deep-Learning-based-Ship-Detection-from-satellite-imagery
+# Deep Learning based Ship Detection from satellite imagery
 
 ## Table of Contents ##
 

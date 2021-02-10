@@ -14,7 +14,23 @@
 
 ## Introduction  ##
 
+Geospatial Intelligence Powered by AI 
+Artificial Intelligence (AI) is ushering a new age of information and applications for the satellite industry. 
+As Earth Observation (EO) satellites continue to capture higher levels of resolution, AI can transform how data is processed both in space, and on Earth, increasing the speed at which insights can be delivered to customers. 
+Here we showcase one such example of Geospatial intelligence powered by AI to identify Ships and classify the type of Ships from the Satellite Imagery. 
 
+Geospatial Intelligence in Maritime Industry 
+
+With the greater part of the World’s trade in goods, oil and gas travelling by sea, the use of maritime tracking applications to monitor the movement of ships and activity at associated ports, and infrastructure, is critical for a wide range of organisations and businesses
+Satellites provides insights about onshore and offshore environments which are critical for any organisation involved in port management and planning.
+Use cases for Identification of Ships from Satellite Imagery 
+- Vessel monitoring and tracking
+- Port monitoring and change detection
+- Support for anti-piracy and search and rescue agencies
+- Fisheries monitoring and protection
+- Environmental protection, enforcement and prosecution
+
+Goal of the Project – To create a Deep Learning Pipeline to Identify the Ships from Satellite Imagery and Classify the Ship whether its Container Cargo or Oil and Gas
 
 - - - -
 

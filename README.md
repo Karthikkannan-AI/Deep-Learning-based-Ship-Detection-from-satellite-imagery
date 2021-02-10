@@ -44,7 +44,9 @@ Goal of the Project – To create a Deep Learning Pipeline to Identify the Ships
 
 ### Solution Workflow ###
 
+<img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Ship-Detection-from-satellite-imagery/blob/main/resources/Solution%20Workflow1.jpeg?raw=true">
 
+<img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Ship-Detection-from-satellite-imagery/blob/main/resources/Solution%20Workflow2.jpeg?raw=true">
 
 ### Evaluation of the Proposed Solution ###
 

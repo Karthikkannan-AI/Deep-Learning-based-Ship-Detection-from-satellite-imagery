@@ -30,7 +30,9 @@ Use cases for Identification of Ships from Satellite Imagery
 - Fisheries monitoring and protection
 - Environmental protection, enforcement and prosecution
 
-Goal of the Project – To create a Deep Learning Pipeline to Identify the Ships from Satellite Imagery and Classify the Ship whether its Container Cargo or Oil and Gas
+### Goal of the Project ###
+
+To create an inferencing Pipeline to Identify the Ships from Satellite Imagery and Classify the Ship whether its Container Cargo or Oil and Gas
 
 - - - -
 

@@ -52,7 +52,7 @@ To create an inferencing Pipeline to Identify the Ships from Satellite Imagery a
 
 ### Evaluation of the Proposed Solution ###
 
-<a href="https://youtu.be/tkrjz34lNPg" target="_blank"><img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Ship-Detection-from-satellite-imagery/blob/main/resources/Ship%20Detector%20and%20Classifier%20Video.png?raw=true"/></a> 
+<a href="https://youtu.be/KrGOFirROO8" target="_blank"><img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Ship-Detection-from-satellite-imagery/blob/main/resources/Ship%20Detector%20and%20Classifier%20Video.png?raw=true"/></a> 
 
 - - - -
 

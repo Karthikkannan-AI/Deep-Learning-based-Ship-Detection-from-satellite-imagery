@@ -59,7 +59,7 @@ alt="Package AI - Test 1" /></a>
 
 ## Conclusion ##
 
-This project is purely done for Demonstration purposes. We have showcased this project deploying multiple neural networks simultaneously for the detection of Ships from Satellite Imagery. 
+This project is purely done for Demonstration purposes. We have showcased this project deploying multiple neural networks(object detection and classification) simultaneously for the detection of Ships from Satellite Imagery. 
 
 - - - -
 
